@@ -48,6 +48,11 @@ exclude:
 # Theme
 theme: "ed."
 
+# google analytics
+# ============================================================================
+# turn it off -> ga: false
+ga: true
+
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
