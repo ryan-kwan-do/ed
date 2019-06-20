@@ -11,19 +11,18 @@ No plugins required.
 import glob
 import os
 
-post_dir = '_posts/'
+post_dir = '_texts/'
 tag_dir = 'tag/'
 
 filenames = glob.glob(post_dir + '*md')
 
 total_tags = []
 for filename in filenames:
-    f = open(filename, 'r')
+    f = open(filename, 'r', encoding='utf8')
     crawl = False
     for line in f:
-        if crawl:
-            current_tags = line.strip().split()
-            if current_tags[0] == 'tags:':
+        current_tags = line.strip().split()
+        if current_tags[0] == 'tags:':
                 total_tags.extend(current_tags[1:])
                 crawl = False
                 break

@@ -3,6 +3,7 @@ layout: post
 title: Conference Presentation - Implications of adopting a critical realist approach for soft systems methodology
 date: 2018-06-20
 categories: [event]
+tags: [systems thinking, critical realism, mapping, action research]
 author: Ryan
 
 ---

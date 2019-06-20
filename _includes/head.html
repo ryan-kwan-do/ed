@@ -49,6 +49,12 @@
     {% endif %}
   </title>
 
+<!-- tags -->
+{% if site.tags != "" %}
+{% include collecttags.html %}
+{% endif %}
+
+
   <!-- CSS link -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
 
