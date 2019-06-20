@@ -1,0 +1,32 @@
+---
+layout: page
+title: Events
+permalink: /events/
+---
+
+Upcoming and past events where I am speaking, organizating, facilitating, or participating. 
+
+
+
+<!-- Upcoming Events -->
+
+<h2>Upcoming Events</h2>
+
+{% assign curDate = site.time | date: '%s' %}
+{% for item in site.texts %}
+{% assign postStartDate = item.date | date: '%s' %}
+{% if item.categories contains 'event' and postStartDate >= curDate%}
+
+        <li> {{item.date | date: "%Y-%m-%d" }}: <a href="{{ item.url | prepend: site.baseurl }}" class="bold">{{ item.title }}</a></li>
+{% endif %}
+{% endfor %}
+
+<!-- Past Events -->
+<h2>Past Events</h2>
+{% assign curDate = site.time | date: '%s' %}
+{% for item in site.texts %}
+{% assign postStartDate = item.date | date: '%s' %}
+{% if item.categories contains 'event' and postStartDate < curDate%}
+      <li> {{item.date | date: "%Y-%m-%d" }}: <a href="{{ item.url | prepend: site.baseurl }}" class="bold">{{ item.title }}</a></li>
+{% endif %}
+{% endfor %}

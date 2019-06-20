@@ -1,38 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me
+comment: false
 ---
 
-One of our most pressing and ever revolving needs as scholars is to pass on our textual artifacts from one generation to another. The art of textual editing, among other practices, has helped many cultures to remember and interpret for centuries. Alas, that art is practiced and encouraged in its highest form by a dwindling number of scholars. In a digital environment the problem is compounded by the difficulties of the medium. While vast repositories, and "e-publications" appear on the online scene yearly, very few manifest a textual scholar's disciplined attention to detail. In contrast, most textual scholars who have made the leap to a rigorous digital practice have focused on markup, relying on technical teams to deploy and maintain their work. This makes your average scholarly digital edition a very costly, and therefore limited affair.
+ I work with organizations to learn about complex problems and what can be done at them. My research interests lie in the challenges relating to the 4th Industrial revolution---technological change, big data, the possibility of attack by robots---and how to navigate them through systems thinking. For humans, all of this change generates quite a bit of uncertainty that can be difficult to deal with.
 
-As we see it, a minimal edition is one that aims to reduce the size and complexity of the back and front end, and the learning curves for the user and the producer. Out of-the-box, this theme can help you build a simple reading edition, or a traditional scholarly edition with footnotes and a bibliography without breaking the bank. In our estimate, these are the two most immediately useful type of editions for editors and readers. An edition produced with Ed consists of static pages whose rate of decay is substantially lower than database-driven systems. As an added bonus, these static pages require less bandwith. Our hope is that our approach can help beginners or veterans deploy beautiful editions with less effort, that it can help us teach a 'full stack' in one academic semester, allow us to care for our projects at less cost, and perhaps, just perhaps, allow us to generate high-quality editions on github.io in large quantities based on the [git-lit](http://jonreeve.com/2015/09/introducing-git-lit/) model by Jonathan Reeve. We're coming for you, Kindle!
+ A description of my research activity is on [Research Gate](https://www.researchgate.net/profile/Ryan_Armstrong4) and [here](/research.html).
 
+### Current Projects
 
-## Sample Ed editions.
+I also help organizations understand their performance and how to improve it. I have experience working with
+[HireMojo](https://hiremojo.com) and [Accolo Business Services](https://accolo.com), now a part of Orion Novotus, helping to simplify big data and communicate it to make better decisions. I am also Treasurer at [Science Dating Forum](http://scientistsdatingforum.org/), a group working for increased dissemination of research findings.
 
-- [Our sample site](http://minicomp.github.io/ed/) is the first edition built with Ed.
-- [Fugitive Verses](http://fugitiverses.viraltexts.org/): Popular Reprinted Poetry from Nineteenth Century Newspapers
-- [mini lazarillo](http://minilazarillo.github.io/): A minimal edition of the *Lazarillo de Tormes*
-- [Making and Knowing](https://cu-mkp.github.io/GR8975-edition/): The BnF Ms Fr 640 in Translation
-- [Daisy Miller: A Comedy in Three Acts](https://britaneeelizabeth.github.io/ed/texts/DaisyMillerPlay/)
-
-
-
-## Current Features
-- Templates for narrative, drama and poetry
-- Responsive design for mobile phones, tablets and PCs.
-- Relatively easy to learn and teach
-- Works well in high- or low- bandwitdh scenarios
-- Easier for digital archives and libraries to preserve
-- Open source, open access
-- Unobtrusive footnotes
-- Metadata in Dublin Core and OpenGraph to play nice with Zotero, libraries and social media.
-- Automatic table of content generation
-- Simple search functionality
-- Annotations via [hypothes.is](https://hypothes.is/)
-- Optional: Ability to generate well-formatted bibliographies and linked citations
-
-
-## Installing and using Ed
-
-To learn how to install and begin using Ed, please visit our [documentation page](http://minicomp.github.io/ed/documentation/).
+For more on my professional side and a lesson on alternative presentation forms see my [Linkedin](https://www.linkedin.com/in/blendout/) page.

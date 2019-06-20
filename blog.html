@@ -1,0 +1,25 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+<!-- Slider Start -->
+
+<p><i>Random thoughts, research in progress, things I'm doing, and ideas for later. Occasionally attempt to post something useful.</i></p>
+
+<p></p>
+
+
+{% assign curDate = site.time | date: '%s' %}
+{% for item in site.texts reversed%}
+  {% assign postStartDate = item.date | date: '%s' %}
+  {% if item.categories contains 'blog' and postStartDate < curDate%}
+<div class="post-area">
+  <a href="{{ item.url | prepend: site.baseurl }}" class="bold">{{ item.title }}</a>
+  <p class="post-date">{{ item.date | date_to_long_string }}</p>
+  <p>
+    {{ item.content | strip_html | truncatewords: 50 }}
+  </p>
+</div>
+{% endif %}
+{% endfor %}

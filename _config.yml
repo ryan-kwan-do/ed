@@ -1,20 +1,20 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+title:               Ryan Armstrong
+tagline:             'Change management. Learning. Maps.'
+description:         'Ryan Armstrong'
+url:                 'ryanarmstrong.me'
+baseurl:             ''
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Ryan Armstrong
+  url:               https://twitter.com/RyanArmstrongHQ
+  email:             hello@ryanarmstrong.me
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme:
+color-scheme: blue
 
 # Permalinks
 permalink: pretty
@@ -47,3 +47,9 @@ exclude:
 
 # Theme
 theme: "ed."
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: ryanbu
