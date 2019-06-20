@@ -4,7 +4,7 @@ title: What am I doing here? Reflecting on a personal blog strategy
 date: 2019-06-19
 categories: [blog, reflections]
 author: Ryan
-
+comments: true
 ---
 
 
