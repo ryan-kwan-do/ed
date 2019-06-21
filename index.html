@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "Hey."
+title: "Welcome."
 ---
 <div class="introduction">
-  <h1>hi.</h1>
+  <h1>hello.</h1>
+
 
 <p>I work with organizations to learn about complex problems and what can be done at them. My research interests lie in positively dealing with the challenges
   relating to current societal and technological trends. This space was made in the spirit of open science, to share my thoughts on ongoing research and practice and things
@@ -19,7 +20,7 @@ title: "Hey."
 <div class="toc">
   <h2>recent posts</h2>
   <ul class="texts">
-  {% for item in site.texts %}
+  {% for item in site.texts reversed %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
