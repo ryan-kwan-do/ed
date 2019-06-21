@@ -1,4 +1,10 @@
 <head>
+
+  <!-- tags -->
+  {% if site.tags != "" %}
+  {% include collecttags.html %}
+  {% endif %}
+  
   <!-- Canonical link to help search engines -->
   <link rel="canonical" href="{{ site.baseurl }}{{ page.url }}" />
 
@@ -49,10 +55,6 @@
     {% endif %}
   </title>
 
-<!-- tags -->
-{% if site.tags != "" %}
-{% include collecttags.html %}
-{% endif %}
 
 
   <!-- CSS link -->

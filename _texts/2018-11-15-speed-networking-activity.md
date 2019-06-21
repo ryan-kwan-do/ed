@@ -3,7 +3,7 @@ layout: post
 title: Speed Dating and Mind Mapping Activity for networking
 date: 2018-11-15
 comment: true
-tags: shared_vision networking maps team_building
+tags: shared_vision networking maps team_building activities
 ---
 
 Networking is [important](https://hbr.org/2007/01/how-leaders-create-and-use-networks) for just about every aspect of organizational life. But for many, especially those just starting out, it can be uncomfortable. This post describes a fun ice-breaking activity that can be used for strangers and colleagues alike.

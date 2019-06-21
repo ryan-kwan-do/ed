@@ -4,6 +4,7 @@ title: "Narrative of the Life of Frederick Douglass"
 author: Frederick Douglass
 editor: Alex Gil
 rights: Public Domain
+tags: leftovers
 source: Project Guttenberg
 publication-date: 2016
 toc:

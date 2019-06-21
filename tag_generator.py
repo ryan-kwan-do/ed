@@ -21,8 +21,9 @@ for filename in filenames:
     f = open(filename, 'r', encoding='utf8')
     crawl = False
     for line in f:
-        current_tags = line.strip().split()
-        if current_tags[0] == 'tags:':
+        if crawl:
+            current_tags = line.strip().split()
+            if current_tags[0] == 'tags:':
                 total_tags.extend(current_tags[1:])
                 crawl = False
                 break
