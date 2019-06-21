@@ -12,4 +12,4 @@ From [Globots and telemigrants: The new language of the future of work](https://
 
 *Automation and globalization are century-old stories. Globotics is different for two big reasons. It is coming inhumanely fast, and it will seem unbelievably unfair,” Baldwin writes. “Globotics is injecting pressure into our socio-political-economic system (via job displacement) faster than our system can absorb it (via job replacement).*
 
-Yet another source of change and one which I actively participate in.
+Yet another source of change and one which I actively participate in. I think I'm a telemigrant, but I moved to Spain and work for mainly US companies, so I guess that makes me an immigrant who telemigrates to his country of origin. So I think that makes me a telerepatriating expat.  

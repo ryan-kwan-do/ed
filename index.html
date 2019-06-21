@@ -20,13 +20,17 @@ title: "Welcome."
 <div class="toc">
   <h2>recent posts</h2>
   <ul class="texts">
-  {% for item in site.texts reversed %}
+{% assign curDate = site.time | date: '%s' %}
+  {% for item in site.texts reversed limit:15 %}
+  {% assign postStartDate = item.date | date: '%s' %}
+  {% if item.categories contains 'blog' and postStartDate < curDate%}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
         {{ item.title }}
       </a>
     </li>
+  {% endif %}
   {% endfor %}
   </ul>
 </div>
