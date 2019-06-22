@@ -28,9 +28,9 @@ His point, rather, is that the decoupling under way shows we have the tools to a
 ...
 </blockquote>
 
-I have not read the book, which is due out in October of this year, but I have some serious doubts as to the soundness of these arguments.
+I have not read the book, which is due out in October of this year, but I have some serious doubts as to the soundness of these arguments. It seems to amount to a defense of free-market capitalism. Did capitalism really need defending? I agree that some form of capitalism provides a system in which humans could act to solve the climate crisis. However, there are some pretty serious barriers concerning how it typically operates in the US, and further the argument that "the current system is fine" will just serve to legitimize inaction at a critical time.
 
-I agree that some form of capitalism provides a system in which humans could act to solve the climate crisis. However, I do not agree that environmental issues are going to be solved in time by capitalism as it exists in the US, and further that the argument that "the current system is fine" will just serve to legitimize inaction at a critical time. I will focus on the author's use of the US agricultural production system as an example, because to me it can be used to refute the four points above.
+I will focus on the author's use of the US agricultural production system as an example, because to me it can be used to refute the four points above.
 
 
 ## The "efficiencies" driven by capitalism:
@@ -56,9 +56,10 @@ But free-market capitalism as it appears to be understood in the article and as 
 
 Hopefully in the book the author will offer a more nuanced view of the issue than was available in the review. As it stands I take it to be a manifesto for the status quo that will only be used to justify a slow march toward climate disaster to benefit the pockets of a few ultra-elite. The critical environmental issues will be solved in spite of and not because of capitalism. A healthy skepticism is in order. To survive with capitalism, we'll need to take a hard look at how we define efficiency, and the policies that sustain the destructive cycles that drive the climate crisis.
 
+## Footnotes:
 
 [^fn1]: See for example [the Wheat Objective Yield Data](https://downloads.usda.library.cornell.edu/usda-esmis/files/3484zg89w/1831cn898/gq67jv01q/WheatObjYld-05-30-2008.pdf)
 [^fn2]: I also wrote about these in my first master's thesis which I will shamelessly include <a href="/assets/pdf/mastersthesis1.pdf">here</a> and which is unfortunately only available in what is likely a dismal Spanish.  
 [^fn3]: See the wonderful but terrifying article by Philip Howard, 2009, *Visualizing consolidation in the global seed industry: 1996-2008* which covers the mechanisms of this cycle in detail
-[^fn4]: For example agricultural policy isn't even mentioned in [this recent piece by the NY Times](https://www.nytimes.com/2019/06/21/climate/states-climate-change.html?action=click&module=Top%20Stories&pgtype=Homepage) even though agriculture produces 1/3 of green house gas emissions. Energy production is mentioned 22 times. 
+[^fn4]: For example agricultural policy isn't even mentioned in [this recent piece by the NY Times](https://www.nytimes.com/2019/06/21/climate/states-climate-change.html?action=click&module=Top%20Stories&pgtype=Homepage) even though agriculture produces 1/3 of green house gas emissions. Energy production is mentioned 22 times.
 [^fn5]: Here's a totally not biased account of Monsanto as the ["World's Most Evil Corporation"](https://www.globalresearch.ca/the-complete-history-of-monsanto-the-worlds-most-evil-corporation/5387964)

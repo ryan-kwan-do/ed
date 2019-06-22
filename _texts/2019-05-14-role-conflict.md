@@ -3,6 +3,7 @@ layout: post
 title: Future Shock! Goal, role, and process ambiguity in Ph.D. programs
 date: 2019-05-14
 categories: [blog]
+tags: well-being learning ambiguity change-management
 author: Ryan
 
 ---
