@@ -23,7 +23,9 @@ The book, which MIT Technology Review obtained an early draft of, says there are
 </blockquote>
 
 <blockquote>
+...
 His point, rather, is that the decoupling under way shows we have the tools to address these sorts of problems.
+...
 </blockquote>
 
 I have not read the book, which is due out in October of this year, but I have some serious doubts as to the soundness of these arguments.
