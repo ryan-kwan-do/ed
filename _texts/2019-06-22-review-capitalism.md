@@ -22,7 +22,13 @@ The book, which MIT Technology Review obtained an early draft of, says there are
 <li>governments that respond to those concerns by putting regulations in place to reduce those harms</li>
 </blockquote>
 
-I have not read the book, which is due out in October of this year, but I have some serious doubts as to the soundness of these arguments. Mainly, I do not agree that environmental issues are going to be solved by capitalism, and further that the argument that "the current system is fine" will just serve to legitimize inaction at a critical time. I will focus on the author's use of the US agricultural production system as an example, because to me it can be used to refute the four points above.
+<blockquote>
+His point, rather, is that the decoupling under way shows we have the tools to address these sorts of problems.
+</blockquote>
+
+I have not read the book, which is due out in October of this year, but I have some serious doubts as to the soundness of these arguments.
+
+I agree that some form of capitalism provides a system in which humans could act to solve the climate crisis. However, I do not agree that environmental issues are going to be solved in time by capitalism as it exists in the US, and further that the argument that "the current system is fine" will just serve to legitimize inaction at a critical time. I will focus on the author's use of the US agricultural production system as an example, because to me it can be used to refute the four points above.
 
 
 ## The "efficiencies" driven by capitalism:
