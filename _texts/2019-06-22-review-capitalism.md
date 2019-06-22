@@ -40,8 +40,8 @@ But it doesn't take a long look under the hood to see that the US agricultural s
 
 Briefly, the yield increases are due to the use of industrial techniques and the use of transgenics, themselves not necessarily bad, but which are being used in ways that threaten the economic well-being of small farm operations and which have a number of undesirable ecological side-effects. One critical one is they pay little to no regard to the health of the soil, whose importance in maintaining critical life-sustaining systems [is difficult to overstate](http://www.fao.org/soils-2015/news/news-detail/en/c/277682/) and which is capable of [capturing massive amounts of carbon](https://www.reuters.com/article/us-climatechange-agriculture-soil/better-soil-could-trap-as-mush-planet-warming-carbon-as-transport-produces-study-idUSKBN1DE2DB).
 
-And of course, the agricultural system as it exists now is maintained by huge governmental subsidies [that have existed since the 1930s](https://www.downsizinggovernment.org/agriculture/subsidies#_edn25).
-Otherwise, many farmers would not be able to afford access to the developing technology that allows them to compete in a market where prices are artificially low[^fn3] (artificially, because the true costs of production are absorbed by society).
+And of course, the agricultural system as it exists now is maintained by huge governmental subsidies [that have existed since the 1930s](https://www.downsizinggovernment.org/agriculture/subsidies#_edn25), most of which [goes to wealthy farms](https://www.thebalance.com/farm-subsidies-4173885).
+At the same time, many farmers struggle to afford access to the developing technology that allows them to produce enough to stay profitable, but which further drives prices down. Therefore they get stuck in a cycle where they need to produce ever more to compete and have to rely on increasingly on unsustainable high tech solutions and in a market in which  prices are artificially low[^fn3] (artificially, because the true costs of production are absorbed by society).
 So, subsidies are not removed and externalities and not taxed, because there is relatively little public awareness of the realities of industrial agricultural production, and so there is little governmental response. Further, the gains in profitability go to the owners of the technologies, who habitually act counter to public interest[^fn4].
 
 I suspect that the other examples cited in the review would face similar criticisms if exposed to scrutiny.
@@ -57,8 +57,7 @@ But free-market capitalism as it appears to be understood in the article and as 
 Hopefully in the book the author will offer a more nuanced view of the issue than was available in the review. As it stands I take it to be a manifesto for the status quo that will only be used to justify a slow march toward climate disaster to benefit the pockets of a few ultra-elite. I would further argue that the critical environmental issues will be solved in spite of and not because of capitalism. To get there, we'll need to take a hard look at how we define efficiency, and the policies that sustain the destructive cycles that drive the climate crisis.
 
 
-
 [^fn1]: See for example [the Wheat Objective Yield Data](https://downloads.usda.library.cornell.edu/usda-esmis/files/3484zg89w/1831cn898/gq67jv01q/WheatObjYld-05-30-2008.pdf)
 [^fn2]: I also wrote about these in my first master's thesis which I will shamelessly include <a href="/assets/pdf/mastersthesis1.pdf">here</a> and which is unfortunately only available in what is likely a dismal Spanish.  
-[^fn3]: See the wonderful but terrifying article by Philip Howard, 2009, Visualizing consolidation in the global seed industry: 1996-2008
+[^fn3]: See the wonderful but terrifying article by Philip Howard, 2009, *Visualizing consolidation in the global seed industry: 1996-2008* which covers the mechanisms of this cycle in detail
 [^fn4]: Here's a totally not biased account of Monsanto as the ["World's Most Evil Corporation"](https://www.globalresearch.ca/the-complete-history-of-monsanto-the-worlds-most-evil-corporation/5387964)
