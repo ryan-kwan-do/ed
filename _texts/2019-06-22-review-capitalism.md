@@ -40,13 +40,11 @@ But it doesn't take a long look under the hood to see that the US agricultural s
 
 Briefly, the yield increases are due to the use of industrial techniques and the use of transgenics, themselves not necessarily bad, but which are being used in ways that threaten the economic well-being of small farm operations and which have a number of undesirable ecological side-effects. One critical one is they pay little to no regard to the health of the soil, whose importance in maintaining critical life-sustaining systems [is difficult to overstate](http://www.fao.org/soils-2015/news/news-detail/en/c/277682/) and which is capable of [capturing massive amounts of carbon](https://www.reuters.com/article/us-climatechange-agriculture-soil/better-soil-could-trap-as-mush-planet-warming-carbon-as-transport-produces-study-idUSKBN1DE2DB).
 
-And of course, the agricultural system as it exists now is maintained by HUGE governmental subsidies, hardly the bread and butter of capitalism.
-Otherwise, most farmers would not be able to afford access to the technology that allows them to compete in a market where prices are artificially low[^fn3] (artificially, because the true costs of production are absorbed by society).
+And of course, the agricultural system as it exists now is maintained by huge governmental subsidies [that have existed since the 1930s](https://www.downsizinggovernment.org/agriculture/subsidies#_edn25).
+Otherwise, many farmers would not be able to afford access to the developing technology that allows them to compete in a market where prices are artificially low[^fn3] (artificially, because the true costs of production are absorbed by society).
+So, subsidies are not removed and externalities and not taxed, because there is relatively little public awareness of the realities of industrial agricultural production, and so there is little governmental response. Further, the gains in profitability go to the owners of the technologies, who habitually act counter to public interest[^fn4].
 
-So, they are not taxed, because in my experience there is little public awareness of the realities of industrial agricultural production, and so there is little governmental response. Further, the gains in profitability go to the owners of the technologies, who habitually act counter to public interest[^fn4].
-
-I suspect that the other examples cited in the review would face similar criticisms if exposed to scrutiny. So how does the current form of production help us avert disaster? In fact, what does it have to do with capitalism at all?
-
+I suspect that the other examples cited in the review would face similar criticisms if exposed to scrutiny.
 
 However, I agree with the review's conclusions:
 
@@ -56,7 +54,7 @@ And while it may clash with some of our deeply ingrained intuitions, it’s clea
 
 But free-market capitalism as it appears to be understood in the article and as it exists in the US is only the solution *if efficiency is defined in its terms*. This is not a rant against capitalism, but rather an observation that the technology that has been developed tends to support efficiency gains in terms of profitability and so probably will be of little use for addressing climate change. For efficiency defined in other terms, say, soil health, socioeconomic well-being, or food security, the system either responds too slowly to avert a crisis or it does not respond at all. You could argue that society will choose alternative, less impactful forms of production when they become aware of the environmental damage, or support legislation that would increase taxes so that industrial production properly reflects its true cost. With strong lobbying by big ag, I suspect neither of these will happen or will take too long.
 
-Hopefully in the book the author will offer a more nuanced view of the issue than was available in the review. As it stands I take it to be a manifesto for the status quo that will only be used to justify a slow march toward climate disaster to benefit the pockets of a few ultra-elite. I would argue that the critical environmental issues will be solved in spite of and not because of capitalism. To get there, we'll need to take a hard look at how we define efficiency, and the policies that sustain the destructive cycles that drive the climate crisis.
+Hopefully in the book the author will offer a more nuanced view of the issue than was available in the review. As it stands I take it to be a manifesto for the status quo that will only be used to justify a slow march toward climate disaster to benefit the pockets of a few ultra-elite. I would further argue that the critical environmental issues will be solved in spite of and not because of capitalism. To get there, we'll need to take a hard look at how we define efficiency, and the policies that sustain the destructive cycles that drive the climate crisis.
 
 
 
