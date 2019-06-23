@@ -9,13 +9,13 @@ comments: true
 ---
 
 
-This week I was exploring mechanisms related to a lack of well-being in early-career researchers as part of a research project on the drivers of a well-being crisis. My father, a psychiatrist, was in town from Somalia where a huge portion of the population is affected by PTSD. He suggested I look at <a href="https://www-sciencedirect-com.sire.ub.edu/science/article/pii/S0301051106001761?via%3Dihub">Polyvagal Theory</a> as a way to explain the neuropsychological drivers at play and sent me <a href="https://psychiatrypodcast.com/psychiatry-psychotherapy-podcast/polyvagal-theory-understanding-emotional-shutdown"this article</a>.
+This week I was exploring mechanisms related to a lack of well-being in early-career researchers as part of a research project on the drivers of a well-being crisis. My father, a psychiatrist, was in town from Somalia where a huge portion of the population is affected by PTSD. He suggested I look at <a href="https://www-sciencedirect-com.sire.ub.edu/science/article/pii/S0301051106001761?via%3Dihub">Polyvagal Theory</a> as a way to explain the neuropsychological drivers at play and sent me <a href="https://psychiatrypodcast.com/psychiatry-psychotherapy-podcast/polyvagal-theory-understanding-emotional-shutdown">this article</a>.
 
 Basically, Polyvagal Theory sees emotions as a response to stimuli that may be outside of our awareness. But our body is always aware of them, and, since it wants to stay alive, it (and specifically the nervous system) will react depending on how we perceive the stimuli.
 
 These perceived stressors can take us out of a positive and healthy "connection mode" where we are calm, happy, and healthy, to a flight or fight mode or even to total shut down (think possums).
 
-<a href="https://psychiatrypodcast.com/psychiatry-psychotherapy-podcast/polyvagal-theory-understanding-emotional-shutdown"The article</a> is full of tips on how to get back to glorious connection mode, but one stuck out to me:
+<a href="https://psychiatrypodcast.com/psychiatry-psychotherapy-podcast/polyvagal-theory-understanding-emotional-shutdown">The article</a> is full of tips on how to get back to glorious connection mode, but one stuck out to me:
 
 <blockquote>
 Practicing assertiveness. Emotional shutdown can occur within relationships where one person feels they cannot communicate with the other person well.
