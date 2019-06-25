@@ -2,6 +2,7 @@
 layout: post
 title: Speed Dating and Mind Mapping Activity for networking
 date: 2018-11-15
+category: blog event
 comment: true
 tags: shared-vision networking maps team-building activities
 ---
