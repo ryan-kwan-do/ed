@@ -5,7 +5,6 @@ date: 2019-06-19
 categories: [blog, reflections]
 tags: mapping random deep blogging journaling research
 author: Ryan
-comments: true
 ---
 
 
