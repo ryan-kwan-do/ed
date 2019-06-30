@@ -9,7 +9,7 @@ comments: true
 ---
 
 
-This week I was exploring mechanisms related to a lack of well-being in early-career researchers as part of a research project on the drivers of a well-being crisis. My father, a psychiatrist, was in town from Somalia where a huge portion of the population is affected by PTSD. He suggested I look at <a href="https://www-sciencedirect-com.sire.ub.edu/science/article/pii/S0301051106001761?via%3Dihub">Polyvagal Theory</a> as a way to explain the neuropsychological drivers at play and sent me <a href="https://psychiatrypodcast.com/psychiatry-psychotherapy-podcast/polyvagal-theory-understanding-emotional-shutdown">this article</a>.
+This week I was exploring mechanisms related to a lack of well-being in early-career researchers as part of a research project on the drivers of a well-being crisis. My father, a psychiatrist, was in town from Somalia where a huge portion of the population is affected by PTSD. He suggested I look at <a href="https://doi.org/10.1016/j.biopsycho.2006.06.009">Polyvagal Theory</a> as a way to explain the neuropsychological drivers at play and sent me <a href="https://psychiatrypodcast.com/psychiatry-psychotherapy-podcast/polyvagal-theory-understanding-emotional-shutdown">this article</a>.
 
 Basically, Polyvagal Theory sees emotions as a response to stimuli that may be outside of our awareness. But our body is always aware of them, and, since it wants to stay alive, it (and specifically the nervous system) will react depending on how we perceive the stimuli.
 
