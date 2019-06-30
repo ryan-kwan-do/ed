@@ -20,10 +20,10 @@ title: "Welcome."
 <div class="toc">
   <h2>recent posts</h2>
   <ul class="texts">
-{% assign curDate = 'now' | date: "%s" | plus : 604800 | date: "%b %d, %Y %I:%M %p -0500" | uri_encode | replace:"+","%20" %}
-  {% for item in site.texts reversed limit:15 %}
+{% assign curDate = site.time | date: "%s" %}
+  {% for item in site.texts reversed limit:20 %}
   {% assign postStartDate = item.date | date: '%s' %}
-  {% if item.categories contains 'blog' and postStartDate < curDate%}
+  {% if item.categories contains 'blog' and postStartDate < curDate %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
