@@ -11,7 +11,7 @@ comments: true
 
 Enjoyed reading a hot-off-the-press article in *Academy of Management Reviews*:
 
-Vogel, R. M., & Bolino, M. C. (2019). Recurring Nightmares and Silver Linings: Understanding How Past Abusive Supervision May Lead To Posttraumatic Stress and Posttraumatic Growth. Academy of Management Review, In Press.
+Vogel, R. M., & Bolino, M. C. (2019). [Recurring Nightmares and Silver Linings: Understanding How Past Abusive Supervision May Lead To Posttraumatic Stress and Posttraumatic Growth](https://journals.aom.org/doi/10.5465/amr.2017.0350). Academy of Management Review, In Press.
 
 Abstract and brief thoughts below:
 
