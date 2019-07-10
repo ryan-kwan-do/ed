@@ -21,7 +21,7 @@ Research on traumatic events indicates that the effects of abuse can last a life
 
 There is a lot in this article that is relevant to work life.
 
-The article centers on abusive supervision but I wonder to what extent we are all exposed to extraordinary, uncontrollable, and potentially overwhelming situations and therefore abused in some sense. Reflecting on my own work experience I can think of a few times that felt traumatic even though I couldn't point to a particular person. That makes me think the research could be relevant to those distributed systems as well where the (ambiguous, uncertain, conflicting, or stressful) *situation* is a potential source of trauma.  
+The article centers on abusive supervision, but I wonder to what extent we are all exposed to extraordinary, uncontrollable, and potentially overwhelming situations and therefore abused in some sense. Reflecting on my own work experience I can think of a few times that felt traumatic even though I couldn't point to a particular person. That makes me think the research could be relevant to those distributed systems as well where the (ambiguous, uncertain, conflicting, or stressful) *situation* is a potential source of trauma.  
 
 In any case, I certainly know several cases of trauma in the research related to Ph.D. well-being. I appreciated the authors' proposal that we can grow from the trauma if we can learn to experience it differently:
 
@@ -36,7 +36,7 @@ Proposition 6: Employees who experience PTG from prior abusive supervision will 
 
 So, I take this as that if we can reflect honestly on the potential or past trauma we could end up better off than if the trauma hadn't happened at all. There are some fairly dire consequences discussed if we do not.
 
-Last thought: The authors list a good deal that we can do to support positive growth. Some of these are deterministic (have a high emotional intelligence), but others are well within our control and in line with research on problem structuring and organizational learning: create the opportunity for safe sensemaking where we can support each other, training and practice in mindfulness and other awareness-generating activities. To end on a positive note:
+Last thought: The authors list a good deal that we can do to support positive growth. Most of these appear well within our control and in line with research on problem structuring and organizational learning: create the opportunity for safe sensemaking where we can support each other, training and practice in mindfulness, and making time for other awareness-generating activities. To end on a positive note:
 
 <blockquote>
 ...the mere awareness that growth is possible after a traumatic experience and/or having a role model who has achieved such growth can lead people toward silver linings (Cobb, Tedeschi, Calhoun, & Cann, 2006).
