@@ -21,7 +21,7 @@ title: "Welcome."
   <h2>recent posts</h2>
   <ul class="texts">
 {% assign curDate = site.time | date: "%s" %}
-  {% for item in site.texts reversed limit:20 %}
+  {% for item in site.texts reversed limit:25 %}
   {% assign postStartDate = item.date | date: '%s' %}
   {% if item.categories contains 'blog' and postStartDate < curDate %}
 
